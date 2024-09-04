@@ -1,0 +1,14 @@
+g:\Meu Drive\Projetos\Workspace\C#\exercism\bin\Debug\net8.0\exercism.exe
+g:\Meu Drive\Projetos\Workspace\C#\exercism\bin\Debug\net8.0\exercism.deps.json
+g:\Meu Drive\Projetos\Workspace\C#\exercism\bin\Debug\net8.0\exercism.runtimeconfig.json
+g:\Meu Drive\Projetos\Workspace\C#\exercism\bin\Debug\net8.0\exercism.dll
+g:\Meu Drive\Projetos\Workspace\C#\exercism\bin\Debug\net8.0\exercism.pdb
+g:\Meu Drive\Projetos\Workspace\C#\exercism\obj\Debug\net8.0\exercism.GeneratedMSBuildEditorConfig.editorconfig
+g:\Meu Drive\Projetos\Workspace\C#\exercism\obj\Debug\net8.0\exercism.AssemblyInfoInputs.cache
+g:\Meu Drive\Projetos\Workspace\C#\exercism\obj\Debug\net8.0\exercism.AssemblyInfo.cs
+g:\Meu Drive\Projetos\Workspace\C#\exercism\obj\Debug\net8.0\exercism.csproj.CoreCompileInputs.cache
+g:\Meu Drive\Projetos\Workspace\C#\exercism\obj\Debug\net8.0\exercism.dll
+g:\Meu Drive\Projetos\Workspace\C#\exercism\obj\Debug\net8.0\refint\exercism.dll
+g:\Meu Drive\Projetos\Workspace\C#\exercism\obj\Debug\net8.0\exercism.pdb
+g:\Meu Drive\Projetos\Workspace\C#\exercism\obj\Debug\net8.0\exercism.genruntimeconfig.cache
+g:\Meu Drive\Projetos\Workspace\C#\exercism\obj\Debug\net8.0\ref\exercism.dll
