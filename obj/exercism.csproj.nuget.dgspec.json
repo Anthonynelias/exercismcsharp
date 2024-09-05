@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "g:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj": {}
+    "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj": {}
   },
   "projects": {
-    "g:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj": {
+    "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj",
+        "projectUniqueName": "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj",
         "projectName": "exercism",
-        "projectPath": "g:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj",
+        "projectPath": "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj",
         "packagesPath": "C:\\Users\\tonyp\\.nuget\\packages\\",
-        "outputPath": "g:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\obj\\",
+        "outputPath": "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonyp\\AppData\\Roaming\\NuGet\\NuGet.Config"
