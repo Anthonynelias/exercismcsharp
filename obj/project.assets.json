@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj",
+      "projectUniqueName": "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercismcsharp\\exercism.csproj",
       "projectName": "exercism",
-      "projectPath": "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercism.csproj",
+      "projectPath": "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercismcsharp\\exercism.csproj",
       "packagesPath": "C:\\Users\\tonyp\\.nuget\\packages\\",
-      "outputPath": "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\obj\\",
+      "outputPath": "G:\\Meu Drive\\Projetos\\Workspace\\C#\\exercism\\exercismcsharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tonyp\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -4,7 +4,7 @@ class BirdCount
 {
     private int[] birdsPerDay;
 
-    public BirdCount(int[] birdsPerDay)
+    public BirdCougitnt(int[] birdsPerDay)
     {
         this.birdsPerDay = birdsPerDay;
     }
